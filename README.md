@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/lakshay_sharma7" target="blank"><img src="https://img.shields.io/twitter/follow/lakshay_sharma7?logo=twitter&style=for-the-badge" alt="lakshay_sharma7" /></a> </p>
 
-- 🌱 I’m currently learning **React Framework**
+- 🌱 I’m currently learning **React Framework **
 
 - 💬 Ask me about **Client side development**
 
