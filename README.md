@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **Client side development**
 
-- 📫 How to reach me **lakshay3899@gmail.com**
+- 📫 How To reach me **lakshay3899@gmail.com**
 
-- ⚡ Fun fact **When I was younger, I wanted to be a pilot, but now i am a web developer**
+- ⚡ Fun fact **Null**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
